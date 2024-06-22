@@ -5,4 +5,4 @@
 
 🔒 Protecting digital assets from cyber threats, ensuring systems are secure from potential attacks. Skilled in identifying vulnerabilities, conducting security assessments, and implementing robust security measures. Passionate about staying ahead of the ever-evolving cybersecurity landscape. Let's make the digital world a safer place together!
 
-![Plague Gif](https://tenor.com/view/pikapikapika-gif-1684604128538204117)
+![Plague Gif](https://media.tenor.com/F2Dqh4ytF9UAAAAi/pikapikapika.gif)
