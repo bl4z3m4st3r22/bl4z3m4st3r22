@@ -6,7 +6,7 @@
 🔒 Protecting digital assets from cyber threats, ensuring systems are secure from potential attacks. Skilled in identifying vulnerabilities, conducting security assessments, and implementing robust security measures. Passionate about staying ahead of the ever-evolving cybersecurity landscape. Let's make the digital world a safer place together!
 
 <img src="https://raw.githubusercontent.com/bl4z3m4st3r22/bl4z3m4st3r22/main/james-bond.gif">
-<img src="https://indify.co/widgets/live/clock/lPAw4RPKkMcmcqJ5ligz" alt="Clock">
+<img src="https://indify.co/widgets/live/clock/lPAw4RPKkMcmcqJ5ligz" width="300" height="80" alt="Word Clock">
 
 # WAR & LOVE
 
